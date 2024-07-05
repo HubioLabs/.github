@@ -7,7 +7,7 @@ HubioLabs is a collection of projects and tools designed to enhance software dev
 ### Projects
 
 - **[Hubio](https://github.com/HubioLabs/hubio)**: The main application for managing and developing mini-applications.
-- **[Hubio Structure Manager](https://github.com/HubioLabs/tauri-plugin-structure-manager)**: A Tauri plugin for organizing and managing project directories in Hubio/Tauri applications.
+- **[Tauri Plugin - Structure Manager](https://github.com/HubioLabs/tauri-plugin-structure-manager)**: A Tauri plugin for organizing and managing project directories in Hubio/Tauri applications.
 
 ### Documentation
 
